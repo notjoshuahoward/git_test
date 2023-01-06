@@ -1,1 +1,1 @@
-Some text added to hello_world.txt
+Some text added to hello_world.txt + a little bit more
